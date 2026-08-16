@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-6nnoo5.salamcuanwin.cfd/sitemap.xml
